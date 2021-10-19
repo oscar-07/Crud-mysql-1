@@ -1,7 +1,7 @@
 # Crud_con_MySQL
-![](auxi/aux1.png)
-![hola](auxi/filename%20aux1.png)
 
+![](auxi/filename%20aux1.png)
+![](auxi/aux1.png)
 
 ## Base de datos: 
 * MYSQL
