@@ -2,7 +2,7 @@
 
 
 ![Inicio](/auxi/aux1.PNG)
-![Inicio](/auxi/aux2.PNG)
+![Ligas](/auxi/aux2.PNG)
 
 ## Base de datos: 
 * MYSQL
