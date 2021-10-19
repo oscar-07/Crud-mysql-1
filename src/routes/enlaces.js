@@ -43,7 +43,7 @@ enrutador.get('/borrar/:id', isLoggedIn, async (req,res)=>{
 enrutador.get('/editar/:id', isLoggedIn, async (req,res)=>{
     const {id} = req.params;
     const datos = await pool.query('SELECT * FROM datos WHERE ID = ?',[id]);
-    console.log(datos[0]);
+    //console.log(datos[0]);
     res.render('enlaces/editar',{datos: datos[0]});
 });
 
