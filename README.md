@@ -1,7 +1,7 @@
 # Crud_con_MySQL
 ![](auxi/aux1.png)
 ![portada](/auxi/aux1.png)
-
+![portada](/auxi/aux1.png?raw=true "hola")
 ![](auxi/aux2.png)
 
 
