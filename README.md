@@ -1,7 +1,7 @@
 # Crud_con_MySQL
 
-![](docs/screenshot2.png)
-![](docs/screenshot.png)
+![](auxi/aux1.png)
+![](auxi/aux2.png)
 
 
 ## Base de datos: 
