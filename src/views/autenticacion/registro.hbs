@@ -1,0 +1,46 @@
+<div class="container p-4">
+    <div class="row">
+        <div class="col-md-4 mx-auto">
+            <div class="card text-center">
+                <div class="card-header">
+                   <h3>Registro</h3> 
+                </div>
+                <div class="card-body">
+                    <form action="/registro" method="POST">
+                        <div class="form-group p-2">
+                            <input type="text" name="usuario" placeholder="Usuario"class="form-control" autofocus>
+                        </div>
+                        <div class="form-group p-2">
+                            <label for="gen">Sexo: </label>
+                            <input type="radio" id="H" name="sexo" value="0" >
+                            <label for="gen">Hombre</label>
+                            <input type="radio" id="M" name="sexo" value="1" >
+                            <label for="gen">Mujer</label>
+                        </div>
+                        <div class="form-group p-2">
+                            <input type="number" name="telefono" placeholder="Numero celular" class="form-control">
+                        </div>
+                        <div class="form-group p-2">
+                            <input type="email" name="correo" placeholder="Correo electronico" class="form-control">
+                        </div>
+                        <div class="form-group p-2">
+                            <input type="password" class="form-control" name="contraseña" placeholder="Contraseña" >
+                        </div>
+                        <div class="form-group p-2">
+                            <input type="password" class="form-control" name="contraseña_confirmada" placeholder="Confirmar Contraseña" >
+                        </div>
+                        <div class="form-group p-2">
+                            <textarea name="comentarios" class="form-control" rows="2" placeholder="Comentarios"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <button class="btn btn-success btn-block">
+                                Registrar
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
