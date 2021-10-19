@@ -1,7 +1,11 @@
 # Crud_con_MySQL
 
-![](auxi/filename%20aux1.png)
 ![](auxi/aux1.png)
+![](../blob/main/assets/auxi/aux1.png)
+![](/assets/auxi/aux1.png)
+![](/../main/assets/auxi/aux1.png)
+![](/../../../../github/docs/blob/main/assets/auxi/aux1.png)
+![](../../../github/docs/blob/main/assets/auxi/aux1.png?raw=true)
 
 ## Base de datos: 
 * MYSQL
@@ -23,4 +27,3 @@
 * passport: Version 0.4.0
 * passport-local: Version 1.0.0
 * timeago.js: 4.0.0-beta.1
-
