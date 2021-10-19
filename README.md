@@ -1,8 +1,6 @@
 # Crud_con_MySQL
 ![](auxi/aux1.png)
-![portada](auxi/aux1.png)
-![portada](/auxi/aux1.png "hola")
-![](auxi/aux2.png)
+![hola](/auxi/aux1.png)
 
 
 ## Base de datos: 
