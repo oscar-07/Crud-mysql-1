@@ -1,11 +1,8 @@
 # Crud_con_MySQL
 
-![](auxi/aux1.png)
-![](../blob/main/assets/auxi/aux1.png)
-![](/assets/auxi/aux1.png)
-![](/../main/assets/auxi/aux1.png)
-![](/../../../../github/docs/blob/main/assets/auxi/aux1.png)
-![](../../../github/docs/blob/main/assets/auxi/aux1.png?raw=true)
+
+![Inicio](/auxi/aux1.PNG)
+![Inicio](/auxi/aux2.PNG)
 
 ## Base de datos: 
 * MYSQL
